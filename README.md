@@ -1,7 +1,7 @@
 # flutter_burc_rehberi
 
 Burç uygulaması
-
+Eğitim seti uygulamaları
 ## Getting Started
 
 This project is a starting point for a Flutter application.
